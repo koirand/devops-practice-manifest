@@ -1,4 +1,4 @@
-gitops-practice
+devops-practive-manifest
 ===
 
-GitOpsの練習用リポジトリ
+DevOps練習用リポジトリ（k8sマニフェスト置き場）
