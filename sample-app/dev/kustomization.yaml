@@ -2,7 +2,7 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 images:
 - name: koirand/devops-practice
-  newTag: aa2e8730b311803ade0a018fbf5a5f64db627170
+  newTag: ec7766286842e8a95a9a8166d273bd1f4085ad0b
 
 resources:
 - ../base
